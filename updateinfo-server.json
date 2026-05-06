@@ -1,0 +1,29 @@
+{
+	"latestVersion": {
+		"version": "0.1",
+		"versionName": "0.1",
+		"downloadPage": "https://github.com/avashield/avaproxy/releases/latest"
+	},
+	"platform": {
+		"Hosted-Portable": {
+			"latestVersion": {
+				"version": "0.1",
+				"versionName": "0.1",
+				"downloadPage": "https://github.com/avashield/avaproxy/releases/latest"
+			}
+		},
+		"Dedicated-Portable": {
+			"latestVersion": {
+				"version": "0.1",
+				"versionName": "0.1",
+				"downloadPage": "https://github.com/avashield/avaproxy/releases/latest"
+			}
+		}
+	},
+	"versions": [
+		{
+			"version": "0.1",
+			"notes": ""
+		}
+	]
+}
