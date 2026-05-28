@@ -73,14 +73,6 @@ This allows the system to start small and scale as needed without changing the c
 |  Windows  | x64 |
 |  Linux    | x64/ARM64 |
 
-**Dedicated Server**
-
-| Platform | Arch |
-|----------|---------|
-|  Portable | Any OS (x86/x64/ARM64) |
-|  Windows  | x64 |
-|  Linux    | x64/ARM64 |
-
 **Hosted Server**
 | Platform | Arch |
 |----------|---------|
