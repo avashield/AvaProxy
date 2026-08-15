@@ -1,35 +1,35 @@
 {
 	"latestVersion": {
-		"version": "0.7",
-		"versionName": "0.7",
+		"version": "0.9",
+		"versionName": "0.9",
 		"downloadPage": "https://github.com/avashield/avaproxy/releases/latest"
 	},
 	"platform": {
 		"Android": {
 			"latestVersion": {
-				"version": "0.7",
-				"versionName": "0.7",
+				"version": "0.9",
+				"versionName": "0.9",
 				"downloadPage": "https://play.google.com/store/apps/details?id=com.avashield.avaproxy.client"
 			}
 		},
 		"AndroidAPK": {
 			"latestVersion": {
-				"version": "0.7",
-				"versionName": "0.7",
+				"version": "0.9",
+				"versionName": "0.9",
 				"downloadPage": "https://github.com/avashield/avaproxy/releases/latest"
 			}
 		},
 		"Windows": {
 			"latestVersion": {
-				"version": "0.7",
-				"versionName": "0.7",
+				"version": "0.9",
+				"versionName": "0.9",
 				"downloadPage": "https://github.com/avashield/avaproxy/releases/latest"
 			}
 		},
 		"iOS": {
 			"latestVersion": {
-				"version": "0.7",
-				"versionName": "0.7",
+				"version": "0.9",
+				"versionName": "0.9",
 				"downloadPage": "https://apps.apple.com/us/app/avaproxy/id"
 			}
 		}
